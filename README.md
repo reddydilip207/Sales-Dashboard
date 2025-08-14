@@ -3,7 +3,7 @@
 Project Title / Headline
 Awesome Chocolates Sales Performance Dashboard This Power BI dashboard provides an interactive and comprehensive analysis 
 of Awesome Chocolates’ sales, shipments, costs,and profits across multiple regions. It helps stakeholders track current 
-month performance, month-over-month changes, and regional distribution insights for better decision-making.
+month performance, month-over-month changes, and regional distribution insights for better decision-making. 
 
 2. Objective
 To create a visually appealing and data-driven dashboard that allows business users to:
