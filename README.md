@@ -7,10 +7,10 @@ month performance, month-over-month changes, and regional distribution insights 
 
 2. Objective
 To create a visually appealing and data-driven dashboard that allows business users to:
-✔ Monitor sales and profit trends
-✔ Analyze regional performance
-✔ Track shipments and LBS %
-✔ Evaluate MoM growth and KPIs
+. Monitor sales and profit trends
+. Analyze regional performance
+. Track shipments and LBS %
+. Evaluate MoM growth and KPIs
 
 3. Key Features
 . Sales Performance: Displays total sales and MoM change
