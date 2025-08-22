@@ -1,53 +1,38 @@
- 🍕 Pizza Sales Report Dashboard
+🍕 Pizza Sales Analysis Dashboard
 
 📌 Project Overview
+This project is an interactive Power BI dashboard designed to analyze pizza sales performance. The goal is to transform raw data into actionable insights, 
+helping businesses understand sales trends, top-performing products, and customer ordering behavior.
 
-This project provides a detailed analysis of pizza sales data from January 2015 to December 2015. 
-The report highlights key KPIs, best & worst sellers, trends, and insights to help optimize sales strategy.
-The dashboard is built to answer critical business questions such as:
+✅ Key Insights from the Dashboard
+* Total Revenue: 817K+
+* Total Orders: 21K+
+* Top-Selling Pizza: The Thai Chicken Pizza
+* Peak Order Day: Friday
+*  Most Popular Size: Large (45.89% of total sales)
 
-> Which pizzas generate the most revenue and orders?
-> What are the busiest days and months for sales?
-> Which pizza size and category contribute the most?
-> How can we improve underperforming products?
-
-📊 Key Insights
-
-> Total Revenue: 817.86K
-> Total Orders: 21,350
-> Average Order Value: 38.31
-> Top Seller (by Revenue): The Thai Chicken Pizza
-> Busiest Day: Friday
-> Peak Months: July and January
-> Most Popular Size: Large (45.89% of sales)
-
+📊 Dashboard Features
+* Best & Worst Performing Pizzas
+* Daily and Monthly Order Trends
+* Sales Distribution by Category and Size
+* Top 5 & Bottom 5 Pizzas by Revenue, Quantity, and Orders
 
 🛠 Tools & Technologies
+* Power BI – For building interactive dashboards
+* Power Query – For data cleaning and transformation
+* Excel/CSV – Data source for analysis
 
-> Power BI → Interactive dashboard and data visualization
-> Power Query → Data cleaning and transformation
-
-
-🔍 Analysis Highlights
-
-✅ Best Sellers
-> By Revenue: The Thai Chicken Pizza (43K)
-> By Quantity: The Classic Deluxe Pizza (2.5K units)
-
-❌ Worst Sellers
-> By Revenue & Orders: The Brie Carre Pizza
-
-📅 Trends
-> Highest Orders: Fridays and weekends
-> Seasonal Peaks: July and January
+🔍 Key Business Questions Answered
+* Which pizzas contribute the most to revenue?
+* When do customers place the most orders?
+* Which pizza sizes dominate sales?
 
 
-✅ Recommendations
+✅ Learnings
 
-> Promote large-size pizzas (highest sales contribution).
-> Increase stock & marketing during July and January.
-> Offer discounts or combos for low-performing pizzas like Brie Carre.
-> Focus ads and campaigns on Fridays & weekends.
+* Data cleaning using Power Query.
+* Building dynamic Power BI dashboards.
+* Gaining business insights through data visualization.
 
 Screen Short :
 https://github.com/reddydilip207/Sales-Dashboard/blob/main/Pizza%20Sales%20Analysis%20Dashboard%201.png
