@@ -51,3 +51,5 @@ The dashboard is built to answer critical business questions such as:
 
 Screen Short :
 https://github.com/reddydilip207/Sales-Dashboard/blob/main/Pizza%20Sales%20Analysis%20Dashboard%201.png
+
+https://github.com/reddydilip207/Sales-Dashboard/blob/main/Pizza%20Sales%20Analysis%20Dashboard%202.png
