@@ -1,51 +1,52 @@
-# Sales-Dashboard
+ 🍕 Pizza Sales Report Dashboard
 
-Project Title / Headline
-Awesome Chocolates Sales Performance Dashboard This Power BI dashboard provides an interactive and comprehensive analysis 
-of Awesome Chocolates’ sales, shipments, costs,and profits across multiple regions. It helps stakeholders track current 
-month performance, month-over-month changes, and regional distribution insights for better decision-making. 
+📌 Project Overview
 
-2. Objective
-To create a visually appealing and data-driven dashboard that allows business users to:
-. Monitor sales and profit trends
-. Analyze regional performance
-. Track shipments and LBS %
-. Evaluate MoM growth and KPIs
+This project provides a detailed analysis of pizza sales data from January 2015 to December 2015. 
+The report highlights key KPIs, best & worst sellers, trends, and insights to help optimize sales strategy.
+The dashboard is built to answer critical business questions such as:
 
-3. Key Features
-. Sales Performance: Displays total sales and MoM change
-. Cost & Profit Analysis: KPIs with profit percentage gauge
-. Shipments Analysis: Box count, LBS %, and shipment distribution chart
-. Regional Performance: Donut chart showing shipment contribution by region
-. Salesperson Performance: Table ranking reps by sales, profit %, and LBS5 %
-. Interactive Filters: Allows drill-down by region and salesperson
+> Which pizzas generate the most revenue and orders?
+> What are the busiest days and months for sales?
+> Which pizza size and category contribute the most?
+> How can we improve underperforming products?
 
-4. Data Source
-Simulated transactional data for Awesome Chocolates, including:
-. Sales amount
-. Cost
-. Profit
-. Shipments (Boxes & LBS %)
-. Regional and salesperson details
-. Prepared in Excel (CSV format) and transformed using Power Query in Power BI.
+📊 Key Insights
 
-5. Tools & Technologies
-. Power BI – Data visualization and dashboard creation
-. DAX – For calculated measures and KPIs
- Power Query – Data cleaning and transformation
-. Excel/CSV – Data storage and source
+> Total Revenue: 817.86K
+> Total Orders: 21,350
+> Average Order Value: 38.31
+> Top Seller (by Revenue): The Thai Chicken Pizza
+> Busiest Day: Friday
+> Peak Months: July and January
+> Most Popular Size: Large (45.89% of sales)
 
-6. Business Impact
-. Improved decision-making with clear KPIs and MoM trends
-. Enhanced visibility into regional performance and shipments
-. Supports strategic planning for cost control and profit maximization
 
-7. Skills Highlighted
-. Data Visualization
-. Business Intelligence
-. DAX Calculations
-. KPI Design
-. Data Cleaning & Transformation
+🛠 Tools & Technologies
 
-8.Screenshorts
-https://github.com/reddydilip207/Sales-Dashboard/blob/main/Awesome%20Chocolates%20Sales%20Performance%20Dashboard%201.png
+> Power BI → Interactive dashboard and data visualization
+> Power Query → Data cleaning and transformation
+
+
+🔍 Analysis Highlights
+
+✅ Best Sellers
+> By Revenue: The Thai Chicken Pizza (43K)
+> By Quantity: The Classic Deluxe Pizza (2.5K units)
+
+❌ Worst Sellers
+> By Revenue & Orders: The Brie Carre Pizza
+
+📅 Trends
+> Highest Orders: Fridays and weekends
+> Seasonal Peaks: July and January
+
+
+✅ Recommendations
+
+> Promote large-size pizzas (highest sales contribution).
+> Increase stock & marketing during July and January.
+> Offer discounts or combos for low-performing pizzas like Brie Carre.
+> Focus ads and campaigns on Fridays & weekends.
+
+Screen Short :
